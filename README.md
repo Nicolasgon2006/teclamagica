@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://preview.redd.it/counter-strike-2s-steam-banner-is-finally-finished-v0-tbxhzs3kkzqb1.png?auto=webp&s=8d5c33b3ce1397955cf5e2fc9ecc61aa0e4e8a1a" height="300" alt="Counter-Strike 2" />
+<img src="https://preview.redd.it/counter-strike-2s-steam-banner-is-finally-finished-v0-tbxhzs3kkzqb1.png?auto=webp&s=8d5c33b3ce1397955cf5e2fc9ecc61aa0e4e8a1a" height="200" alt="Counter-Strike 2" />
 </div>
 
 # La Tecla Mágica
