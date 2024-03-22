@@ -19,4 +19,5 @@ Sólo debes tener Python 3.11 o superior instalado y el CS2 abierto antes de abr
 
 Desarrollado con Python 3.11
 - Contacto por Discord
+  
 <a href="https://discord.gg/EETZeRU9Mm"><img src="https://piunikaweb.com/wp-content/uploads/2023/02/discord-featured-1.jpg" height="150" alt="Discord" /></a>
