@@ -1,5 +1,5 @@
 <div align="center">
-<img src=["https://discord.js.org/static/logo.svg](https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=500%2Cq=85%2Cwidth=1000/wp-content/uploads/best-cs2-console-commands-1.png"] width="546" alt="Counter-Strike 2" />
+<img src="https://discord.js.org/static/logo.svg](https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=500%2Cq=85%2Cwidth=1000/wp-content/uploads/best-cs2-console-commands-1.png" width="546" alt="Counter-Strike 2" />
 </div>
 
 # La Tecla Mágica
