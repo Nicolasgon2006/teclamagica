@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=500%2Cq=85%2Cwidth=1000/wp-content/uploads/best-cs2-console-commands-1.png" width="300" alt="Counter-Strike 2" />
+<img src="https://preview.redd.it/counter-strike-2s-steam-banner-is-finally-finished-v0-tbxhzs3kkzqb1.png?auto=webp&s=8d5c33b3ce1397955cf5e2fc9ecc61aa0e4e8a1a" width="300" alt="Counter-Strike 2" />
 </div>
 
 # La Tecla Mágica
