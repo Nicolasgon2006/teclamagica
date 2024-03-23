@@ -12,7 +12,7 @@ Sí, ya que no interfiere con el juego en absoluto y VAC no funciona como antich
 ## ¿Cómo se ejecuta?
 Simplemente ejecuta el "instalar.bat" y luego ejecuta con Python el archivo "main.py".
 
-## ¿Qué requisitos tiene?
+## Requisitos
 Sólo debes tener Python 3.11 o superior instalado y el CS2 abierto antes de abrir el "main.py".
 
 -----------------------------------------------------------------------------------------
